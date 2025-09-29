@@ -46,6 +46,7 @@ Copy the emails in your exel file save it and drop it into the folder along with
    ```python
    YOUR_EMAIL = "yourmail@gmail.com"
    YOUR_PASSWORD = "your_app_password_here"
+4. Run the python file
+   ```python
+   python script.py
 
-```bash
-python script.py
