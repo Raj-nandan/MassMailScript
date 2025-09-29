@@ -4,6 +4,8 @@
 !!! DO NOT SPAM MAILS TO HRs, USE IT WISELY… !!!  
 This project is intended to help freshers and job seekers send **personalized, professional emails** to multiple HR contacts efficiently. Misuse of this tool (like spamming or bulk cold emailing without relevance) can hurt your reputation and even block your email account. Please use responsibly.  
 
+Make change in the application according to your skills and resume.
+
 ---
 
 ## ⚙️ Requirements  
