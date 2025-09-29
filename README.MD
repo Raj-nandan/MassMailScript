@@ -7,6 +7,8 @@ This project is intended to help freshers and job seekers send **personalized, p
 ---
 ##Make change in the e-mail application according to your job role, skills and resume.
 
+---
+
 ## ⚙️ Requirements  
 
 1. **Python 3.9+** (recommended: 3.10–3.12 for stability)  
