@@ -22,3 +22,34 @@ This project is intended to help freshers and job seekers send **personalized, p
 2. Install dependencies:  
    ```bash
    pip install openpyxl
+
+🔑 Gmail Setup – App Password
+
+Since Google no longer allows "less secure apps," you need an App Password:
+
+Watch this guide: How to generate Gmail App Password
+
+Use that generated password instead of your normal Gmail password in the script.
+
+📂 Data Source
+
+HR email list is maintained in this Google Sheet:
+Google Drive Link
+
+⚠️ The sheet will be updated from time to time. Please check for the latest version before running the script.
+
+🚀 How to Use
+
+Clone/download this project.
+
+Place your resume.pdf in the same folder as the script.
+
+Update script.py with:
+
+YOUR_EMAIL = "yourmail@gmail.com"
+YOUR_PASSWORD = "your_app_password_here"
+
+
+Run the script:
+
+python script.py
